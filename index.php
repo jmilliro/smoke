@@ -1,4 +1,4 @@
 <?php
 
-echo "Welcome to the JBoss Integration and PaaS (OpenShift) Workshop - Hi Bill!";
+echo "Welcome to the JBoss Integration and PaaS (OpenShift) Workshop!";
 
